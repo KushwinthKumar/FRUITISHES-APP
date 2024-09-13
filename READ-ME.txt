@@ -1,0 +1,5 @@
+  =>  Website Name    : Fruitishes - Vegetable Website Template
+
+  =>  Website Author  : Kushwinth Kumar
+
+  =>  Author Website   : https://kushwinthkumar.github.io/Portfolio/
